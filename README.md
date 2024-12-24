@@ -20,14 +20,14 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O que eu aprendi com as aulas sobre IA's generativas da DIO
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Em meu vídeo, usei a imagem do meu filho (meu modelo que não fez o curso kk) para alimentar IA's generativas de audio e video , e mostrar os conhecimentos que adquiri até o momento com o curso
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+IA generativa de audio (text to speech) - Eleven labs 
+IA generativa de video 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
 
@@ -35,7 +35,7 @@ Descreva como você criou o conteúdo
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Apesar de as IA's generativas ficarem cada vez mais poderosas, elas apresentam diversas limitações que, querendo ou não, ainda são facilmente distinguidas em relação à vida real.
 ```
 
 ### Exemplos e Insigths
