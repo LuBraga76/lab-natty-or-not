@@ -23,20 +23,17 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # O que eu aprendi com as aulas sobre IA's generativas da DIO
 
 ## 📒 Descrição
-Em meu vídeo, usei a imagem do meu filho (meu modelo que não fez o curso kk) para alimentar IA's generativas de audio e video , e mostrar os conhecimentos que adquiri até o momento com o curso
+Em meu vídeo, criei um avatar virtual gerado por inteligência artificial, que meostrará o meu ganho de conhecimento sobre o assunto, assim como abordará o que achei do curso da DIO até agora.
 
 ## 🤖 Tecnologias Utilizadas
-IA generativa de audio (text to speech) - Eleven labs 
-IA generativa de video 
+IA generativa de audio e video - (HeyGen)
+
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei a plataforma HeyGen para procurar um avatar virtual, e assim que a achei um interessante, preparei alguns scripts (falas do avatar) na ferramenta para então ter o resultado do vídeo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Apesar de as IA's generativas ficarem cada vez mais poderosas, elas apresentam diversas limitações que, querendo ou não, ainda são facilmente distinguidas em relação à vida real.
-```
+https://app.heygen.com/videos/af1076572379433dbd37f39c53290d7d
+aqui está o link do vídeo que produzi. Caso não seja possível abrir, é basicamente minha "assistente virtual" gerada pela HeyGen, explicando o que achamos e aprendemos com o curso.
 
 ### Exemplos e Insigths
 
